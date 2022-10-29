@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hngbackend", "Hngbackend.csproj", "{3E46257E-38CF-494F-BE45-497A4F0D782E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E46257E-38CF-494F-BE45-497A4F0D782E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E46257E-38CF-494F-BE45-497A4F0D782E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E46257E-38CF-494F-BE45-497A4F0D782E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E46257E-38CF-494F-BE45-497A4F0D782E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1B1674B-42F8-418F-A4C9-3C78A9028198}
+	EndGlobalSection
+EndGlobal
